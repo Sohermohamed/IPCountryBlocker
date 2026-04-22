@@ -1,0 +1,6 @@
+@IPCountryBlocker_HostAddress = http://localhost:5023
+
+GET {{IPCountryBlocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

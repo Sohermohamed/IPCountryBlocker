@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "IPCountryBlocker.Presentation.Controllers.CountriesController",
+    "Method": "BlockCountry",
+    "RelativePath": "api/countries/block",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "IPCountryBlocker.Shared.DTO_s.BlockCountryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IPCountryBlocker.Presentation.Controllers.CountriesController",
+    "Method": "UnblockCountry",
+    "RelativePath": "api/countries/block/{countryCode}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IPCountryBlocker.Presentation.Controllers.CountriesController",
+    "Method": "GetBlockedCountries",
+    "RelativePath": "api/countries/blocked",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IPCountryBlocker.Presentation.Controllers.CountriesController",
+    "Method": "TemporalBlock",
+    "RelativePath": "api/countries/temporal-block",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "IPCountryBlocker.Shared.DTO_s.TemporalBlockRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IPCountryBlocker.Presentation.Controllers.IpController",
+    "Method": "CheckBlock",
+    "RelativePath": "api/ip/check-block",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IPCountryBlocker.Presentation.Controllers.IpController",
+    "Method": "Lookup",
+    "RelativePath": "api/ip/lookup",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ipAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IPCountryBlocker.Presentation.Controllers.LogsController",
+    "Method": "GetBlockedAttempts",
+    "RelativePath": "api/logs/blocked-attempts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

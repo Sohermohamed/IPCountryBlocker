@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "IPCountryBlocker.Abstraction/1.0.0": {
+        "dependencies": {
+          "IPCountryBlocker.Domain": "1.0.0",
+          "IPCountryBlocker.Shared": "1.0.0"
+        },
+        "runtime": {
+          "IPCountryBlocker.Abstraction.dll": {}
+        }
+      },
+      "IPCountryBlocker.Domain/1.0.0": {
+        "runtime": {
+          "IPCountryBlocker.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "IPCountryBlocker.Shared/1.0.0": {
+        "runtime": {
+          "IPCountryBlocker.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPCountryBlocker.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPCountryBlocker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPCountryBlocker.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

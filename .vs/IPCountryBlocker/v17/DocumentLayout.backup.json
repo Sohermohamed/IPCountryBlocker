@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F43E44-5CCB-4D16-B47C-B6E037626D04}|IPCountryBlocker.Web\\IPCountryBlocker.Web.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\ipcountryblocker.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F43E44-5CCB-4D16-B47C-B6E037626D04}|IPCountryBlocker.Web\\IPCountryBlocker.Web.csproj|solutionrelative:ipcountryblocker.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.service\\services\\temporalblockbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|solutionrelative:core\\ipcountryblocker.service\\services\\temporalblockbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\ipcountryblocker.shared\\dto\u0027s\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|solutionrelative:ipcountryblocker.shared\\dto\u0027s\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\ipcountryblocker.shared\\dto\u0027s\\blockcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|solutionrelative:ipcountryblocker.shared\\dto\u0027s\\blockcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D2BE6B-2F30-427D-8788-3EF505A23F19}|Infrastructure\\IPCountryBlocker.Presentation\\IPCountryBlocker.Presentation.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\infrastructure\\ipcountryblocker.presentation\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D2BE6B-2F30-427D-8788-3EF505A23F19}|Infrastructure\\IPCountryBlocker.Presentation\\IPCountryBlocker.Presentation.csproj|solutionrelative:infrastructure\\ipcountryblocker.presentation\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D2BE6B-2F30-427D-8788-3EF505A23F19}|Infrastructure\\IPCountryBlocker.Presentation\\IPCountryBlocker.Presentation.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\infrastructure\\ipcountryblocker.presentation\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D2BE6B-2F30-427D-8788-3EF505A23F19}|Infrastructure\\IPCountryBlocker.Presentation\\IPCountryBlocker.Presentation.csproj|solutionrelative:infrastructure\\ipcountryblocker.presentation\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D2BE6B-2F30-427D-8788-3EF505A23F19}|Infrastructure\\IPCountryBlocker.Presentation\\IPCountryBlocker.Presentation.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\infrastructure\\ipcountryblocker.presentation\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D2BE6B-2F30-427D-8788-3EF505A23F19}|Infrastructure\\IPCountryBlocker.Presentation\\IPCountryBlocker.Presentation.csproj|solutionrelative:infrastructure\\ipcountryblocker.presentation\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB458CE4-20DC-4453-B34A-FEFBBEC3286E}|Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\infrastructure\\ipcountryblocker.persistence\\repositories\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB458CE4-20DC-4453-B34A-FEFBBEC3286E}|Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj|solutionrelative:infrastructure\\ipcountryblocker.persistence\\repositories\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB458CE4-20DC-4453-B34A-FEFBBEC3286E}|Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\infrastructure\\ipcountryblocker.persistence\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB458CE4-20DC-4453-B34A-FEFBBEC3286E}|Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj|solutionrelative:infrastructure\\ipcountryblocker.persistence\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB458CE4-20DC-4453-B34A-FEFBBEC3286E}|Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\infrastructure\\ipcountryblocker.persistence\\ipcountryblocker.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB458CE4-20DC-4453-B34A-FEFBBEC3286E}|Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj|solutionrelative:infrastructure\\ipcountryblocker.persistence\\ipcountryblocker.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\ipcountryblocker.shared\\ipcountryblocker.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|solutionrelative:ipcountryblocker.shared\\ipcountryblocker.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.service\\services\\ipgeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|solutionrelative:core\\ipcountryblocker.service\\services\\ipgeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|solutionrelative:core\\ipcountryblocker.service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.abstraction\\irepositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|solutionrelative:core\\ipcountryblocker.abstraction\\irepositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.abstraction\\irepositories\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|solutionrelative:core\\ipcountryblocker.abstraction\\irepositories\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.abstraction\\iservices\\iipgeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|solutionrelative:core\\ipcountryblocker.abstraction\\iservices\\iipgeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F43E44-5CCB-4D16-B47C-B6E037626D04}|IPCountryBlocker.Web\\IPCountryBlocker.Web.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\ipcountryblocker.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89F43E44-5CCB-4D16-B47C-B6E037626D04}|IPCountryBlocker.Web\\IPCountryBlocker.Web.csproj|solutionrelative:ipcountryblocker.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F43E44-5CCB-4D16-B47C-B6E037626D04}|IPCountryBlocker.Web\\IPCountryBlocker.Web.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\ipcountryblocker.web\\ipcountryblocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{89F43E44-5CCB-4D16-B47C-B6E037626D04}|IPCountryBlocker.Web\\IPCountryBlocker.Web.csproj|solutionrelative:ipcountryblocker.web\\ipcountryblocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.abstraction\\ipcountryblocker.abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{595EAFA9-95B5-4A3D-BA65-8F4353C71AFB}|Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj|solutionrelative:core\\ipcountryblocker.abstraction\\ipcountryblocker.abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\ipcountryblocker.shared\\dto\u0027s\\ipinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7601FC-496D-45DD-AA62-2B3D31CB3601}|IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj|solutionrelative:ipcountryblocker.shared\\dto\u0027s\\ipinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A89AE-52F2-48E1-8AFE-17A67367AE89}|Core\\IPCountryBlocker.Domain\\IPCountryBlocker.Domain.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.domain\\entities\\temporalblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A89AE-52F2-48E1-8AFE-17A67367AE89}|Core\\IPCountryBlocker.Domain\\IPCountryBlocker.Domain.csproj|solutionrelative:core\\ipcountryblocker.domain\\entities\\temporalblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A89AE-52F2-48E1-8AFE-17A67367AE89}|Core\\IPCountryBlocker.Domain\\IPCountryBlocker.Domain.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.domain\\entities\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A89AE-52F2-48E1-8AFE-17A67367AE89}|Core\\IPCountryBlocker.Domain\\IPCountryBlocker.Domain.csproj|solutionrelative:core\\ipcountryblocker.domain\\entities\\blockedattemptlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879A89AE-52F2-48E1-8AFE-17A67367AE89}|Core\\IPCountryBlocker.Domain\\IPCountryBlocker.Domain.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879A89AE-52F2-48E1-8AFE-17A67367AE89}|Core\\IPCountryBlocker.Domain\\IPCountryBlocker.Domain.csproj|solutionrelative:core\\ipcountryblocker.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|c:\\users\\lenovo\\downloads\\tesr\\ipcountryblocker\\core\\ipcountryblocker.service\\ipcountryblocker.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74A4A34A-FDF2-46F2-9276-83CB578BF05E}|Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj|solutionrelative:core\\ipcountryblocker.service\\ipcountryblocker.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\IPCountryBlocker\\IPCountryBlocker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker\\IPCountryBlocker.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IPCountryBlocker\\IPCountryBlocker.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1094,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemporalBlockBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\Services\\TemporalBlockBackgroundService.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Service\\Services\\TemporalBlockBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\Services\\TemporalBlockBackgroundService.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Service\\Services\\TemporalBlockBackgroundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:34:59.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemporalBlockRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\DTO\u0027s\\TemporalBlockRequest.cs",
+              "RelativeDocumentMoniker": "IPCountryBlocker.Shared\\DTO\u0027s\\TemporalBlockRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\DTO\u0027s\\TemporalBlockRequest.cs",
+              "RelativeToolTip": "IPCountryBlocker.Shared\\DTO\u0027s\\TemporalBlockRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:34:50.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockCountryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\DTO\u0027s\\BlockCountryRequest.cs",
+              "RelativeDocumentMoniker": "IPCountryBlocker.Shared\\DTO\u0027s\\BlockCountryRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\DTO\u0027s\\BlockCountryRequest.cs",
+              "RelativeToolTip": "IPCountryBlocker.Shared\\DTO\u0027s\\BlockCountryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:34:46.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:33:30.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IpController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\IpController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\IpController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\IpController.cs",
+              "RelativeToolTip": "Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\IpController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:33:23.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Web\\Program.cs",
+              "RelativeDocumentMoniker": "IPCountryBlocker.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Web\\Program.cs",
+              "RelativeToolTip": "IPCountryBlocker.Web\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:32:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPCountryBlocker.Persistence",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure\\IPCountryBlocker.Persistence\\IPCountryBlocker.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T11:32:51.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPCountryBlocker.Shared",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj",
+              "RelativeDocumentMoniker": "IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj",
+              "RelativeToolTip": "IPCountryBlocker.Shared\\IPCountryBlocker.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T11:32:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\CountryRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:00:08.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Infrastructure\\IPCountryBlocker.Presentation\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T22:05:07.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPGeolocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\Services\\IPGeolocationService.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Service\\Services\\IPGeolocationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\Services\\IPGeolocationService.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Service\\Services\\IPGeolocationService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:04:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\LogRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\LogRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\LogRepository.cs",
+              "RelativeToolTip": "Infrastructure\\IPCountryBlocker.Persistence\\Repositories\\LogRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:01:53.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Service\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\Services\\CountryService.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Service\\Services\\CountryService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:14:08.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IIPGeolocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IServices\\IIPGeolocationService.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Abstraction\\IServices\\IIPGeolocationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IServices\\IIPGeolocationService.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Abstraction\\IServices\\IIPGeolocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:53:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPCountryBlocker.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Web\\IPCountryBlocker.http",
+              "RelativeDocumentMoniker": "IPCountryBlocker.Web\\IPCountryBlocker.http",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Web\\IPCountryBlocker.http",
+              "RelativeToolTip": "IPCountryBlocker.Web\\IPCountryBlocker.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-21T21:47:36.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IRepositories\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Abstraction\\IRepositories\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IRepositories\\ICountryRepository.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Abstraction\\IRepositories\\ICountryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:40:34.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IRepositories\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Abstraction\\IRepositories\\ILogRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IRepositories\\ILogRepository.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Abstraction\\IRepositories\\ILogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:51:16.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "IPCountryBlocker.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Web\\appsettings.json",
+              "RelativeToolTip": "IPCountryBlocker.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T22:05:53.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPCountryBlocker.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker\\IPCountryBlocker.Web.csproj",
+              "RelativeDocumentMoniker": "IPCountryBlocker\\IPCountryBlocker.Web.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker\\IPCountryBlocker.Web.csproj",
+              "RelativeToolTip": "IPCountryBlocker\\IPCountryBlocker.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T21:30:32.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPCountryBlocker.Abstraction.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Abstraction\\IPCountryBlocker.Abstraction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T19:58:14.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\DTO\u0027s\\IPInfoDto.cs",
+              "RelativeDocumentMoniker": "IPCountryBlocker.Shared\\DTO\u0027s\\IPInfoDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\IPCountryBlocker.Shared\\DTO\u0027s\\IPInfoDto.cs",
+              "RelativeToolTip": "IPCountryBlocker.Shared\\DTO\u0027s\\IPInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:55:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPCountryBlocker.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Service\\IPCountryBlocker.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T19:28:14.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TemporalBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Domain\\Entities\\TemporalBlock.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Domain\\Entities\\TemporalBlock.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Domain\\Entities\\TemporalBlock.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Domain\\Entities\\TemporalBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:37:44.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlockedAttemptLog.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Domain\\Entities\\BlockedAttemptLog.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Domain\\Entities\\BlockedAttemptLog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Domain\\Entities\\BlockedAttemptLog.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Domain\\Entities\\BlockedAttemptLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:35:02.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Core\\IPCountryBlocker.Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\tesr\\IPCountryBlocker\\Core\\IPCountryBlocker.Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "Core\\IPCountryBlocker.Domain\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:31:06.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\IPCountryBlocker\\IPCountryBlocker\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\IPCountryBlocker\\IPCountryBlocker\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\IPCountryBlocker\\IPCountryBlocker\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\IPCountryBlocker\\IPCountryBlocker\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:02:38.258Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

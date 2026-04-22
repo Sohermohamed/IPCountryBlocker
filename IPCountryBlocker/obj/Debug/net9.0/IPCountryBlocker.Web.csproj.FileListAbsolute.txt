@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.sourcelink.json
+C:\Users\Lenovo\source\repos\IPCountryBlocker\IPCountryBlocker\obj\Debug\net9.0\IPCountryBlocker.Web.MvcApplicationPartsAssemblyInfo.cs
